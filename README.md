@@ -78,6 +78,6 @@ These insights assist in making informed decisions about future content developm
 
 # Contact me
 
-[Linkedin](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+[Linkedin](https://www.linkedin.com/in/nitish-kr-dash/)
 
 [Email](dashnitish0@gmail.com)
