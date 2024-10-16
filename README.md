@@ -75,3 +75,9 @@ The Amazon Prime Video Dashboard reveals significant insights into the content s
 - **Viewer Preferences**: A substantial majority of content consists of movies, pointing towards a potential area for expanding TV show offerings.
 
 These insights assist in making informed decisions about future content development and marketing strategies.
+
+# Contact me
+
+[Linkedin](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+
+[Email](dashnitish0@gmail.com)
