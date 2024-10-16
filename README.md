@@ -23,7 +23,9 @@ This project aims to create a dynamic content analytics dashboard for Amazon Pri
 
 ## Dashboard 🎛:
 
-![Amazon Dashboard](![Amazon Prime Dashboard](https://github.com/user-attachments/assets/ae6db31d-7a18-4475-8192-0e8ef3491b3f))
+(![dashboard ap](https://github.com/user-attachments/assets/01088cad-f552-446f-85f9-d7e7e117b108)
+)
+
 
 
 ## Data Source 📁:
