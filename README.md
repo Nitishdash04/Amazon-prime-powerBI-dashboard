@@ -80,4 +80,4 @@ These insights assist in making informed decisions about future content developm
 
 [Linkedin](https://www.linkedin.com/in/nitish-kr-dash/)
 
-Email (dashnitish0@gmail.com)
+(dashnitish0@gmail.com)
